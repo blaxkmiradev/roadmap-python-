@@ -144,7 +144,7 @@ Python is a **high-level, interpreted** programming language known for its:
 | **Cross-platform** | Works on Windows, macOS, Linux |
 | **Huge Ecosystem** | 400,000+ packages available |
 
-### Why Learn Python in 2024/2025?
+### Why Learn Python in 2025/2026?
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
